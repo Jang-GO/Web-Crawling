@@ -1,3 +1,4 @@
+#My first crawling code (static crawling)
 import requests
 import bs4
 
